@@ -24,7 +24,16 @@
   },
   "interests": [
     {
-      "name": "Muisc",
+      "name": "Fishing",
+      "keywords": [
+        "North Shore Casting Club",
+        "Ulua",
+        "Papio",
+        "Tako"
+      ]
+    },
+    {
+      "name": "Music",
       "keywords": [
         "Piano",
         "Trumpet",
