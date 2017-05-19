@@ -24,6 +24,15 @@
   },
   "interests": [
     {
+      "name": "Science",
+      "keywords": [
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ]
+    },
+    {
       "name": "Fishing",
       "keywords": [
         "North Shore Casting Club",
@@ -40,6 +49,10 @@
         "Guitar",
         "FL-Studio"
       ]
+    },
+    {
+      "name": "DIY",
+      "keywords": []
     }
   ],
   "skills": [
