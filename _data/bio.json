@@ -97,7 +97,7 @@
       "summary": "Assist front end web development",
       "highlights": [
         "Maintain, update, existing code",
-        "Migrate functionality from JSP/YUI to Jersey/Angularjs"
+        "Migrate functionality from JSP/YUI to Java/Angularjs"
       ]
     },
     {
@@ -128,10 +128,5 @@
     }
   ],
   "awards": [],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+  "references": []
 }
