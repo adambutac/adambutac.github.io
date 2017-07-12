@@ -36,9 +36,9 @@
       "name": "Fishing",
       "keywords": [
         "North Shore Casting Club",
-        "Ulua",
-        "Papio",
-        "Tako"
+        "Skin Diving",
+        "Three Prong",
+        "Tako eye"
       ]
     },
     {
@@ -47,12 +47,24 @@
         "Piano",
         "Trumpet",
         "Guitar",
-        "FL-Studio"
+        "FL-Studio",
+        "Composition"
       ]
     },
     {
       "name": "Custom PCs",
-      "keywords": []
+      "keywords": [
+        "Radeon RX 480 Crossfire",
+        "Nanoxia Silence 5",
+        "6 x 4 TB Raid 0"
+      ]
+    },
+    {
+      "name": "Networking",
+      "keywords": [
+        "Wireshark",
+        "Nmap"
+      ]
     }
   ],
   "skills": [
