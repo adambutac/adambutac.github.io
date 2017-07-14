@@ -8,7 +8,7 @@
     "website": "https://adambutac.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Summer, 2017.",
     "location": {
-      "address": "968 Spencer St. Apt #204",
+      "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -33,31 +33,12 @@
       ]
     },
     {
-      "name": "Fishing",
-      "keywords": [
-        "North Shore Casting Club",
-        "Skin Diving",
-        "Three Prong",
-        "Tako eye"
-      ]
+      "name": "Software Engineering",
+      "keywords": []
     },
     {
-      "name": "Music",
-      "keywords": [
-        "Piano",
-        "Trumpet",
-        "Guitar",
-        "FL-Studio",
-        "Composition"
-      ]
-    },
-    {
-      "name": "Custom PCs",
-      "keywords": [
-        "Radeon RX 480 Crossfire",
-        "Nanoxia Silence 5",
-        "6 x 4 TB Raid 0"
-      ]
+      "name": "Robotics",
+      "keywords": ["FIRST"]
     },
     {
       "name": "Networking",
@@ -65,6 +46,10 @@
         "Wireshark",
         "Nmap"
       ]
+    },
+    {
+      "name": "Musical Composition",
+      "keywords": []
     }
   ],
   "skills": [
@@ -82,9 +67,10 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Linux/Arch",
-        "Git/GitHub",
-        "Maven"
+        "Linux",
+        "Git",
+        "Maven",
+        "CADD"
       ]
     }
   ],
@@ -95,21 +81,33 @@
       "studyType": "B.S.",
       "startDate": "2009-09-01",
       "endDate": "Present",
-      "gpa": "2.34",
-      "courses": []
+      "gpa": "2.43",
+      "courses": [
+        "Algorithms",
+        "Concurrernt Programming",
+        "Program Structure",
+        "Data Storage and Retrieval",
+        "Machine-Level and Systems Programming",
+        "Computing Ethics for Lab Assistants",
+        "Data Networks",
+        "Logic Design and Microprocessors",
+        "Calculus I-IV",
+        "Introduction to Linear Algebra"
+      ]
     }
   ],
   "work": [
     {
       "company": "STAR",
       "position": "Computer Support Specialist",
-      "website": "https://www.star.hawaii.edu",
+      "website": "https://www.star.hawaii.edu/",
       "startDate": "2016-03-01",
       "endDate": "Present",
-      "summary": "Assist front end web development",
+      "summary": "Assist with web development and student registration",
       "highlights": [
         "Maintain, update, existing code",
-        "Migrate functionality from JSP/YUI to Java/Angularjs"
+        "Migrate functionality from JSP/YUI to Java/Angularjs".
+        "Assist students with registration"
       ]
     },
     {
@@ -120,8 +118,8 @@
       "endDate": "2014-04-30",
       "summary": "Assist Machining Scientific Instruments",
       "highlights": [
-        "Design parts and toolpaths with Solidworks and Mastercam",
-        "Machine parts with manual and CNC machines"
+        "Designed parts for scientific instruments",
+        "Fabricated parts with manual and CNC machines"
       ]
     }
   ],
