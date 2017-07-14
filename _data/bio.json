@@ -66,8 +66,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
         "Linux",
+        "Windows",
         "Git",
         "Maven",
         "CADD"
@@ -105,7 +105,8 @@
       "endDate": "Present",
       "summary": "Assist with web development and student registration",
       "highlights": [
-        "Maintain, update, existing code",
+        "Maintain and update existing website",
+        "Maintain and update windows server",
         "Migrate functionality from JSP/YUI to Java/Angularjs",
         "Assist students with registration"
       ]
