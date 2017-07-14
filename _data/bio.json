@@ -136,6 +136,15 @@
         "Teach students to use CADD software",
         "Teach students proper usage of various power tools"
       ]
+    },
+    {
+      "organization": "UH Manoa Greyhats",
+      "website": "https://github.com/uhmgreyhats/",
+      "position": "Member",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Compete in various hackathons and CTF's",
+      "highlights": []
     }
   ],
   "awards": [],
