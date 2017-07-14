@@ -100,7 +100,7 @@
     {
       "company": "STAR",
       "position": "Computer Support Specialist",
-      "website": "https://www.star.hawaii.edu/",
+      "website": "https://www.star.hawaii.edu",
       "startDate": "2016-03-01",
       "endDate": "Present",
       "summary": "Assist with web development and student registration",
@@ -113,7 +113,7 @@
     {
       "company": "SOEST",
       "position": "Machine Shop Assistant",
-      "website": "https://www.soest.hawaii.edu/soestwp/",
+      "website": "https://www.soest.hawaii.edu/soestwp",
       "startDate": "2010-09-05",
       "endDate": "2014-04-30",
       "summary": "Assist Machining Scientific Instruments",
@@ -126,7 +126,7 @@
   "volunteer": [
     {
       "organization": "Waialua High School FIRST Robotics",
-      "website": "http://www.waialuarobotics.com/",
+      "website": "http://www.waialuarobotics.com",
       "position": "Mentor",
       "startDate": "2009-01-01",
       "endDate": "2011-01-01",
