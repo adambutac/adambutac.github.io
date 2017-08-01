@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://adambutac.github.io/images/adam.png",
     "email": "adam359@hawaii.edu",
-    "phone": "808-219-3697",
+    "phone": "(808) 219-3697",
     "website": "https://adambutac.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Summer, 2017.",
     "location": {
@@ -38,7 +38,9 @@
     },
     {
       "name": "Robotics",
-      "keywords": ["FIRST"]
+      "keywords": [
+        "FIRST"
+      ]
     },
     {
       "name": "Networking",
@@ -151,7 +153,7 @@
   "references": [
     {
       "name": "Available Upon Request",
-      "reference":""
+      "reference": ""
     }
   ]
 }
