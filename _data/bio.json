@@ -189,6 +189,13 @@
       "highlights": []
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "Po'oihe - Certificate of Excellence",
+      "date": "Summer 2016",
+      "awarder": "Reynolad T. Hioki, Jodi Ito, Gerald K.H. Lau",
+      "summary": "Awarded for participation of the first annual Po'oihe Cyber Security Exercise."
+    }
+  ],
   "references": []
 }
