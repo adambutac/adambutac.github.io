@@ -39,24 +39,40 @@
     },
     {
       "name": "Software Engineering",
-      "keywords": []
-    },
-    {
-      "name": "Robotics",
       "keywords": [
-        "FIRST",
-        "STEM"
+        "Java",
+        "Node.js",
+        "Python"
       ]
     },
     {
-      "name": "Networking",
+      "name": "Cyber Security",
+      "keywords": [
+        "FIRST",
+        "STEM",
+        "Wireshark",
+        "nmap",
+        "TCP/IP"
+      ]
+    },
+    {
+      "name": "Computer Vision",
       "keywords": [
         "Wireshark",
-        "Nmap"
+        "Nmap",
+        "OCR",
+        "Tesseract"
       ]
     },
     {
       "name": "Musical Composition",
+      "keywords": [
+        "FL Studio",
+        "Massive"
+      ]
+    },
+    {
+      "name": "",
       "keywords": []
     }
   ],
