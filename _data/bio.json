@@ -72,8 +72,13 @@
       ]
     },
     {
-      "name": "",
-      "keywords": []
+      "name": "Linux",
+      "keywords": [
+        "arch",
+        "debian",
+        "ubuntu",
+        "mint"
+      ]
     }
   ],
   "skills": [
