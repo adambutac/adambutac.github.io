@@ -84,7 +84,10 @@
         "Java",
         "Javascript",
         "Python",
-        "SQL"
+        "SQL",
+        "Node.js",
+        "React.js",
+        "HTML/CSS"
       ]
     },
     {
@@ -99,7 +102,16 @@
         "Visual Studio",
         "VIM",
         "MS Access",
-        "SQL Server Management Studio"
+        "SQL Server Management Studio",
+        "Bash/Zsh",
+        "Powershell",
+        "Debian",
+        "Git/Gitkraken",
+        "Maven/Nexus",
+        "Vim/Visual Studio Code",
+        "bash/zsh/powershell",
+        "Debian/Windows",
+        "blackarch/kali linux"
       ]
     }
   ],
