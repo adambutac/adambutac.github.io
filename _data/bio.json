@@ -48,8 +48,6 @@
     {
       "name": "Cyber Security",
       "keywords": [
-        "FIRST",
-        "STEM",
         "Wireshark",
         "nmap",
         "TCP/IP"
@@ -58,10 +56,9 @@
     {
       "name": "Computer Vision",
       "keywords": [
-        "Wireshark",
-        "Nmap",
         "OCR",
-        "Tesseract"
+        "Tesseract",
+	"Machine Learning"
       ]
     },
     {
