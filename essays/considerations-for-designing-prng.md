@@ -2,9 +2,9 @@
 layout: essay
 type: essay
 draft: false
-title: Considerations in Designing a Stronger Pseudo Random Number Generator
-date: 16-08-12
-labels: 
+title: Considerations for Designing PRNG
+date: 2017
+labels: null
 ---
 
 ### Introduction
