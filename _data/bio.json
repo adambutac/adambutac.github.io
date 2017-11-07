@@ -107,10 +107,10 @@
         "Zsh",
         "Powershell",
         "Maven",
-        "Nexus",
         "Gulp",
         "npm",
-        "yarn"
+        "yarn",
+        "Wireshark"
       ]
     },
     {
