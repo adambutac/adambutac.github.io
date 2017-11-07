@@ -155,13 +155,14 @@
       "website": "https://www.star.hawaii.edu",
       "startDate": "2016-03-01",
       "endDate": "Present",
-      "summary": "Assist with web development and student registration",
+      "summary": "Assisted with software development and server management",
       "highlights": [
-        "Maintain and update existing website",
-        "Maintain and update windows server",
-        "Migrate functionality from JSP/YUI to Java/Angularjs",
-        "Implement stored SQL procedures in webapps",
-        "Assist students with registration"
+        "Applied Angularjs framework and Bootstrap/Semantic ui onto existing technology",
+        "Wrote application interface using Jersey for stored SQL procs",
+        "Configured and updated Tomcat and Nexus servers",
+        "Monitored and updated Windows Server 2008",
+        "Updated/Hot fixed live webapps",
+        "Assisted students with class registration"
       ]
     },
     {
@@ -172,7 +173,7 @@
       "endDate": "2014-04-30",
       "summary": "Assist Machining Scientific Instruments",
       "highlights": [
-        "Designed parts for scientific instruments",
+        "Designed parts for scientific instruments using Autodesk and Mastercam software",
         "Fabricated parts with manual and CNC machines"
       ]
     }
@@ -184,10 +185,11 @@
       "position": "Mentor",
       "startDate": "2009-01-01",
       "endDate": "2011-01-01",
-      "summary": "Inspired students  interest in STEM fields by constructing robots",
+      "summary": "Inspired students to follow their dreams by building robots",
       "highlights": [
-        "Helped students to use CADD software to design and digitally protoype ideas",
-        "Helped students proper usage of various power tools to machine and assemble robots"
+        "Trained students 3d drafting using CADD software to prototype and finalize designs",
+        "Trained students to adhere to proper safety protocol",
+        "Participated in regionals as a robot inspector"
       ]
     },
     {
