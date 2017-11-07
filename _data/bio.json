@@ -94,7 +94,7 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
         "Linux",
@@ -115,6 +115,19 @@
         "bash/zsh/powershell",
         "Debian/Windows",
         "blackarch/kali linux"
+      ]
+    },
+    {
+      "name": "OS",
+      "level": "",
+      "keywords": [
+        "",
+        "Linux",
+        "Windows",
+        "Debian",
+        "Arch",
+        "Blackarch",
+        "Kali Linux"
       ]
     }
   ],
