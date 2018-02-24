@@ -1,24 +1,29 @@
 {
   "basics": {
     "name": "Adam Butac",
-    "label": "Student",
-    "picture": "https://adambutac.github.io/adambutac.github.io/images/adam.png",
+    "label": "Computer Support Specialist - Software Developer",
+    "picture": "https://adambutac.github.io/images/adam.png",
     "email": "adam359@hawaii.edu",
-    "phone": "808-219-3697",
+    "phone": "(808) 219-3697",
     "website": "https://adambutac.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Summer, 2017.",
+    "summary": "I am a graduate of the University of Hawaiʻi  at Mānoa with a Bachelor's Degree of Science in Computer Science.",
     "location": {
-      "address": "1325 N. School St.",
-      "postalCode": "96817",
+      "address": "",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Hawaiʻi "
     },
     "profiles": [
       {
         "network": "github",
         "username": "adambutac",
         "url": "http://github.com/adambutac"
+      },
+      {
+        "network": "linkedin",
+        "username": "adambutac",
+        "url": "https://www.linkedin.com/in/adambutac"
       }
     ]
   },
@@ -33,26 +38,45 @@
       ]
     },
     {
-      "name": "Fishing",
+      "name": "Software Engineering",
       "keywords": [
-        "North Shore Casting Club",
-        "Ulua",
-        "Papio",
-        "Tako"
+        "Java",
+        "Nodejs",
+        "Python",
+        "OOP"
       ]
     },
     {
-      "name": "Music",
+      "name": "Cyber Security",
       "keywords": [
-        "Piano",
-        "Trumpet",
-        "Guitar",
-        "FL-Studio"
+        "Wireshark",
+        "nmap",
+        "TCP/IP"
       ]
     },
     {
-      "name": "DIY",
-      "keywords": []
+      "name": "Computer Vision",
+      "keywords": [
+        "OCR",
+        "Tesseract",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Musical Composition",
+      "keywords": [
+        "FL Studio",
+        "Massive"
+      ]
+    },
+    {
+      "name": "Linux",
+      "keywords": [
+        "arch",
+        "debian",
+        "ubuntu",
+        "mint"
+      ]
     }
   ],
   "skills": [
@@ -62,78 +86,134 @@
       "keywords": [
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "C",
+        "SQL",
+        "Node.js",
+        "React",
+        "Jersey"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Tools",
       "level": "",
       "keywords": [
+        "Git",
+        "Gitkraken",
+        "Vim",
+        "Visual Studio Code",
+        "SQL Server Management Studio",
+        "Bash",
+        "Zsh",
+        "Powershell",
+        "Maven",
+        "Gulp",
+        "npm",
+        "yarn",
+        "Wireshark"
+      ]
+    },
+    {
+      "name": "OS",
+      "level": "",
+      "keywords": [
+        "GNU/Linux",
         "Windows",
-        "Linux/Arch",
-        "Git/GitHub",
-        "Maven"
+        "Debian",
+        "Arch",
+        "Blackarch",
+        "Kali Linux"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Summer, 2017)",
+      "institution": "University of Hawaiʻi , Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2009-09-01",
-      "endDate": "Present",
-      "gpa": "2.34",
+      "startDate": "",
+      "endDate": "2017-08-012",
+      "gpa": "2.47",
       "courses": [
+        "Algorithms",
+        "Concurrent Programming",
+        "Program Structure",
+        "Data Storage and Retrieval",
+        "Machine-Level and Systems Programming",
+        "Computing Ethics for Lab Assistants",
+        "Data Networks",
+        "Logic Design and Microprocessors",
+        "Calculus I-IV",
+        "Introduction to Linear Algebra"
       ]
     }
   ],
   "work": [
     {
-      "company": "STAR",
-      "position": "Computer Support Specialist",
+      "company": "STAR Technologies",
+      "position": "Computer Support Specialist - Software Developer",
       "website": "https://www.star.hawaii.edu",
       "startDate": "2016-03-01",
       "endDate": "Present",
-      "summary": "Assist front end web development",
+      "summary": "Assisted with software development and server management",
       "highlights": [
-        "Maintain, update, existing code",
-        "Migrate functionality from JSP/YUI to Jersey/Angularjs"
+        "Migrated front-end from YUI to AngularJS styled with Bootstrap/Semantic UI",
+        "Migrated back-end from JSP to Jersey/Spring",
+        "Configured, updated, deployed, and troubleshooted web servers",
+        "Developed web accessible TCP connection monitoring solution for Microsoft server",
+        "Assisted students with registration"
       ]
     },
     {
       "company": "SOEST",
       "position": "Machine Shop Assistant",
-      "website": "https://www.soest.hawaii.edu/soestwp/",
+      "website": "https://www.soest.hawaii.edu/soestwp",
       "startDate": "2010-09-05",
       "endDate": "2014-04-30",
       "summary": "Assist Machining Scientific Instruments",
       "highlights": [
-        "Design parts and toolpaths with Solidworks and Mastercam",
-        "Machine parts with manual and CNC machines"
+        "Designed housing and other components for scientific instruments using Autodesk and Mastercam software",
+        "Fabricated parts with manual and CNC machines",
+        "Ran high pressure testing on assembled scientific instruments"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Waialua High School FIRST Robotics",
-      "website": "http://www.waialuarobotics.com/",
+      "organization": "Waialua High School FIRST Robotics Team",
+      "website": "http://www.waialuarobotics.com",
       "position": "Mentor",
       "startDate": "2009-01-01",
       "endDate": "2011-01-01",
-      "summary": "Inspire students by building robots",
+      "summary": "Inspired students to be innovative, creative and to be safe and have fun!",
       "highlights": [
-        "Teach students to use CADD software",
-        "Teach students proper usage of various power tools"
+        "Trained students 3D drafting using CADD software to prototype and finalize designs",
+        "Trained students to adhere to proper safety protocol",
+        "Participated in regionals as a robot inspector"
       ]
+    },
+    {
+      "organization": "UH Mānoa Greyhats",
+      "website": "https://github.com/uhmgreyhats/",
+      "position": "Member",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Competed in various hack-a-thons and CTFs",
+      "highlights": []
     }
   ],
   "awards": [
+    {
+      "title": "Po'oihe - Certificate of Excellence",
+      "date": "Summer 2016",
+      "awarder": "Reynolad T. Hioki, Jodi Ito, Gerald K.H. Lau",
+      "summary": "Awarded for participation of the first annual Poʻoihe Cyber Security Exercise."
+    }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "",
+      "reference": "Available upon request"
     }
   ]
 }
