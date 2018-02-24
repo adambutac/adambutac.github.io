@@ -72,9 +72,10 @@
     {
       "name": "Linux",
       "keywords": [
-        "Arch",
-        "Debian",
-        "Ubuntu"
+        "arch",
+        "debian",
+        "ubuntu",
+        "mint"
       ]
     }
   ],
@@ -98,6 +99,7 @@
       "level": "",
       "keywords": [
         "Git",
+        "Gitkraken",
         "Vim",
         "Visual Studio Code",
         "SQL Server Management Studio",
@@ -119,7 +121,7 @@
         "Windows",
         "Debian",
         "Arch",
-        "BlackArch",
+        "Blackarch",
         "Kali Linux"
       ]
     }
