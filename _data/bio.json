@@ -166,14 +166,13 @@
       "position": "Computer Support Specialist - Software Developer",
       "website": "https://www.star.hawaii.edu",
       "startDate": "2016-03-01",
-      "endDate": "Present",
+      "endDate": "2018-05-11",
       "summary": "Assisted with software development and server management",
       "highlights": [
         "Migrated front-end from YUI to AngularJS styled with Bootstrap/Semantic UI",
         "Migrated back-end from JSP to Jersey/Spring",
         "Configured, updated, deployed, and troubleshooted web servers",
-        "Developed web accessible TCP connection monitoring solution for Microsoft server",
-        "Assisted students with registration"
+        "Developed network monitoring webapp for Microsoft server"
       ]
     },
     {
@@ -210,7 +209,7 @@
       "position": "Member",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Competed in various hack-a-thons and CTFs",
+      "summary": "Participated in NCL and Po'oihe",
       "highlights": []
     }
   ],
