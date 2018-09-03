@@ -158,7 +158,11 @@
       "endDate": "Present",
       "summary": "Unix system administration",
       "highlights": [
-        "TBD"
+        "Monitor system and application logs",
+        "Deploy and configure software applications and services",
+        "Leverage automation (bash, python, etc.) for repetitive tasks",
+        "Harden systems following security technical implementation guides",
+        "Maintain documentation such as standard operation procedures"
       ]
     },
     {
