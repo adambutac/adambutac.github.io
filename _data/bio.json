@@ -151,6 +151,17 @@
   ],
   "work": [
     {
+      "company": "Pearl Harbor Naval Shipyard & IMF",
+      "position": "IT Specialist, (SysAdm/InfoSec)",
+      "website": "http://www.navsea.navy.mil/Home/Shipyards/PHNS-IMF/",
+      "startDate": "2018-05-14",
+      "endDate": "Present",
+      "summary": "Unix system administration",
+      "highlights": [
+        "TBD"
+      ]
+    },
+    {
       "company": "STAR Technologies",
       "position": "Computer Support Specialist - Software Developer",
       "website": "https://www.star.hawaii.edu",
