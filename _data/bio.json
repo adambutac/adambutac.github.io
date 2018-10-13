@@ -167,14 +167,14 @@
     },
     {
       "company": "STAR Technologies",
-      "position": "Computer Support Specialist - Software Developer",
+      "position": "Software Developer",
       "website": "https://www.star.hawaii.edu",
       "startDate": "2016-03-01",
       "endDate": "2018-05-11",
-      "summary": "Assisted with software development and server management",
+      "summary": "Front end and middle-tier software development and server management",
       "highlights": [
-        "Migrated front-end from YUI to AngularJS styled with Bootstrap/Semantic UI",
-        "Migrated back-end from JSP to Jersey/Spring",
+        "Translated front-end from YUI to AngularJS styled with Bootstrap/Semantic UI",
+        "Translated back-end from JSP to Jersey/Spring",
         "Configured, updated, deployed, and troubleshooted web servers",
         "Developed network monitoring webapp for Microsoft server"
       ]
@@ -187,7 +187,7 @@
       "endDate": "2014-04-30",
       "summary": "Assist Machining Scientific Instruments",
       "highlights": [
-        "Designed housing and other components for scientific instruments using Autodesk and Mastercam software",
+        "Designed housing and other components for scientific instruments using Autodesk and Mastercam",
         "Fabricated parts with manual and CNC machines",
         "Ran high pressure testing on assembled scientific instruments"
       ]
