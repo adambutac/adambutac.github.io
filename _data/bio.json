@@ -3,26 +3,26 @@
     "name": "Adam Butac",
     "label": "Computer Support Specialist - Software Developer",
     "picture": "https://adambutac.github.io/images/adam.png",
-    "email": "adam359@hawaii.edu",
+    "email": "adambutuac@gmail.com",
     "phone": "(808) 219-3697",
     "website": "https://adambutac.github.io",
     "summary": "I am a graduate of the University of Hawaiʻi  at Mānoa with a Bachelor's Degree of Science in Computer Science.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaiʻi "
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "adambutac",
-        "url": "http://github.com/adambutac"
+        "username": "https://github.com/adambutac",
+        "url": "https://github.com/adambutac"
       },
       {
         "network": "linkedin",
-        "username": "adambutac",
+        "username": "https://www.linkedin.com/in/adambutac",
         "url": "https://www.linkedin.com/in/adambutac"
       }
     ]
