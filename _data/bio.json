@@ -17,12 +17,12 @@
     "profiles": [
       {
         "network": "github",
-        "username": "https://github.com/adambutac",
+        "username": "github.com/adambutac",
         "url": "https://github.com/adambutac"
       },
       {
         "network": "linkedin",
-        "username": "https://www.linkedin.com/in/adambutac",
+        "username": "www.linkedin.com/in/adambutac",
         "url": "https://www.linkedin.com/in/adambutac"
       }
     ]
