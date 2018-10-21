@@ -3,7 +3,7 @@ layout: project
 type: project
 draft: false
 title: Web Scraper - Link Mapper
-date: 2017-2018
+date: 2018
 labels:
   - Node.js
 projecturl: https://github.com/adambutac/node-spider
