@@ -92,11 +92,13 @@
         "SQL",
         "Node.js",
         "React",
-        "Jersey"
+        "Jersey",
+        "Hadoop",
+        "Spark"
       ]
     },
     {
-      "name": "Tools",
+      "name": "Software",
       "level": "",
       "keywords": [
         "Git",
@@ -125,6 +127,13 @@
         "Blackarch",
         "Kali Linux"
       ]
+    },
+    {
+      "name": "Certifications",
+      "level": "",
+      "keywords": [
+        "SY0-501 Security +"
+      ]
     }
   ],
   "education": [
@@ -151,11 +160,24 @@
   ],
   "work": [
     {
+      "company": "Praxis Inc.",
+      "position": "Software Engineer",
+      "website": "https://www.pxi.com",
+      "startDate": "2018-02-04",
+      "endDate": "Present",
+      "summary": "Software design and development",
+      "highlights": [
+        "Configuration management web application",
+        "Real-time computation of data streams on distributed systems",
+        "Project research and development"
+      ]
+    },
+    {
       "company": "Pearl Harbor Naval Shipyard & IMF",
       "position": "IT Specialist, (SysAdm/InfoSec)",
       "website": "http://www.navsea.navy.mil/Home/Shipyards/PHNS-IMF/",
       "startDate": "2018-05-14",
-      "endDate": "Present",
+      "endDate": "2019-01-31",
       "summary": "Unix system administration",
       "highlights": [
         "Monitor system and application logs",
